@@ -33,41 +33,41 @@ PARALLEL SALT BLEND (BY MASS)
   - CaCl₂:                       1 part
   - NaHCO₃:                      1 part
 
-------------------------------------------------------------
-STEP 1 — PREPARE DRY OATMEAL
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 1 — PREPARE DRY OATMEAL<br>
+------------------------------------------------------------<br>
 1. Use plain rolled oats (no sugar, no flavorings).
 2. Spread oats on trays in a thin layer.
 3. Dry at 50–80 °C until crisp and moisture-free.
 4. Break into 2–8 mm flakes if needed.
 5. Store dry until mixing.
 
-------------------------------------------------------------
-STEP 2 — PREPARE SALT BLEND
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 2 — PREPARE SALT BLEND<br>
+------------------------------------------------------------<br>
 1. Weigh NaCl, CaCl₂, and NaHCO₃ in a 2:1:1 ratio.
 2. Mix thoroughly in a dry container.
 3. Break lumps; keep sealed (CaCl₂ absorbs moisture).
 
-------------------------------------------------------------
-STEP 3 — DRY MIX (SAND + LIME + SALT BLEND)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 3 — DRY MIX (SAND + LIME + SALT BLEND)<br>
+------------------------------------------------------------<br>
 1. Add sand and hydrated lime to mixing tub.
 2. Dry-mix 2–3 minutes until uniform.
 3. Sprinkle salt blend evenly across surface.
 4. Mix another 2–3 minutes.
 5. Ensure no pockets of lime or salt remain.
 
-------------------------------------------------------------
-STEP 4 — ADD DRY OATMEAL
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 4 — ADD DRY OATMEAL<br>
+------------------------------------------------------------<br>
 1. Add dried oatmeal flakes to dry mix.
 2. Fold and toss until flakes are fully coated.
 3. Oatmeal should behave like lightweight aggregate.
 
-------------------------------------------------------------
-STEP 5 — HYDRATION & WORKABILITY
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 5 — HYDRATION & WORKABILITY<br>
+------------------------------------------------------------<br>
 1. Start with 1.6 parts water; do not exceed 2.0 parts.
 2. Add water in small increments.
 3. Mix 1–2 minutes between additions.
@@ -79,18 +79,18 @@ STEP 5 — HYDRATION & WORKABILITY
 5. If too dry: add 0.1–0.2 parts water.
 6. If too wet: add small amounts of sand + lime (maintain ratio).
 
-------------------------------------------------------------
-STEP 6 — CASTING
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 6 — CASTING<br>
+------------------------------------------------------------<br>
 1. Prepare molds (clean, lightly oiled).
 2. Fill molds in 2–3 lifts.
 3. Lightly tamp each lift to remove voids.
 4. Avoid heavy vibration or over-compaction.
 5. Strike off top flush with mold edges.
 
-------------------------------------------------------------
-STEP 7 — CURING REGIME (MOLD-RESISTANT)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 7 — CURING REGIME (MOLD-RESISTANT)<br>
+------------------------------------------------------------<br>
 PHASE 1 — INITIAL SET (0–24 HOURS)
   - Keep shaded and ventilated.
   - Cover loosely to prevent rapid drying.
@@ -107,9 +107,9 @@ PHASE 3 — MAIN CURE (DAY 7–28)
 OPTIONAL — POST-28-DAY SEALER
   - Apply breathable mineral/silicate sealer.
 
-------------------------------------------------------------
-STEP 8 — TESTING & ADJUSTMENT TOWARD ~4 MPa
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 8 — TESTING & ADJUSTMENT TOWARD ~4 MPa<br>
+------------------------------------------------------------<br>
 At 7 days:
   - Preliminary compressive test.
 
@@ -129,49 +129,53 @@ ADJUSTMENT RULES:
       Oatmeal: 0.9 parts
       Sand: 3.8 parts
 
-  If salt efflorescence occurs:
+ If salt efflorescence occurs:
+    - Reduce salt blend to 0.15 parts.
 
+============================================================<br>
+HYBRID APPLE–OATMEAL CRETE v2.0<br>
+============================================================<br><br>
 
-  ------------------------------------------------------------
-STEP 1 — PREPARE DRY APPLE PULP
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 1 — PREPARE DRY APPLE PULP<br>
+------------------------------------------------------------<br>
 1. Spread pulp thin on trays.
 2. Dry at 50–80 °C until brittle.
 3. Crumble into 2–10 mm flakes.
 4. Store dry.
 
-------------------------------------------------------------
-STEP 2 — PREPARE DRY OATMEAL
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 2 — PREPARE DRY OATMEAL<br>
+------------------------------------------------------------<br>
 1. Use plain rolled oats.
 2. Dry at 50–80 °C until crisp.
 3. Break into 2–8 mm flakes.
 
-------------------------------------------------------------
-STEP 3 — PREPARE SALT BLEND
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 3 — PREPARE SALT BLEND<br>
+------------------------------------------------------------<br>
 1. Mix NaCl, CaCl₂, NaHCO₃ in 2:1:1 ratio.
 2. Break lumps.
 3. Keep sealed (CaCl₂ absorbs moisture).
 
-------------------------------------------------------------
-STEP 4 — DRY MIX (SAND + LIME + SALT BLEND)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 4 — DRY MIX (SAND + LIME + SALT BLEND)<br>
+------------------------------------------------------------<br>
 1. Add sand + lime to mixing tub.
 2. Dry-mix 2–3 minutes.
 3. Sprinkle salt blend evenly.
 4. Mix another 2–3 minutes.
 
-------------------------------------------------------------
-STEP 5 — ADD BIO-FIBERS (APPLE + OATMEAL)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 5 — ADD BIO-FIBERS (APPLE + OATMEAL)<br>
+------------------------------------------------------------<br>
 1. Add 0.5 parts dried apple pulp.
 2. Add 0.5 parts dried oatmeal.
 3. Fold until fibers are fully coated.
 
-------------------------------------------------------------
-STEP 6 — HYDRATION
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 6 — HYDRATION<br>
+------------------------------------------------------------<br>
 1. Start with 1.7 parts water.
 2. Add in small increments.
 3. Mix 1–2 minutes between additions.
@@ -186,18 +190,18 @@ If too dry:
 If too wet:
   Add sand + lime (maintain ratio).
 
-------------------------------------------------------------
-STEP 7 — CASTING
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 7 — CASTING<br>
+------------------------------------------------------------<br>
 1. Prepare molds (clean, lightly oiled).
 2. Fill in 2–3 lifts.
 3. Lightly tamp each lift.
 4. Avoid heavy vibration.
 5. Strike off top flush.
 
-------------------------------------------------------------
-STEP 8 — CURING (MOLD-RESISTANT)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 8 — CURING (MOLD-RESISTANT)<br>
+------------------------------------------------------------<br>
 PHASE 1 — 0–24 HOURS
   - Shade, ventilated.
   - Loose cover.
@@ -215,9 +219,9 @@ OPTIONAL — POST-28-DAY SEALER
 
 Combined Apple Oatmeal
 
-------------------------------------------------------------
-STEP 9 — STRENGTH TARGETING (~4.5–5.2 MPa)
-------------------------------------------------------------
+------------------------------------------------------------<br>
+STEP 9 — STRENGTH TARGETING (~4.5–5.2 MPa)<br>
+------------------------------------------------------------<br>
 If strength <4 MPa:
   - Increase sand to 4.2 parts.
   - Increase lime to 2.9 parts.
@@ -236,16 +240,116 @@ SAFETY:
   - Wet lime is highly alkaline.
   - Do not use for structural load-bearing without engineering validation.
 
-------------------------------------------------------------
-SAFETY
-------------------------------------------------------------
+------------------------------------------------------------<br>
+SAFETY<br>
+------------------------------------------------------------<br>
 - Wear gloves, mask, eye protection.
 - Wet lime is highly alkaline.
 - Not for structural load-bearing without testing.
 
-    - Reduce salt blend to 0.15 parts.
+============================================================<br>
+HYBRID APPLE–OATMEAL CRETE v2.0 copy<br>
+============================================================<br><br>
 
-SAFETY:
-  - Wear gloves, mask, eye protection.
-  - Wet lime is highly alkaline.
-  - Do not use for structural load-bearing without engineering validation.
+------------------------------------------------------------<br>
+STEP 1 — PREPARE DRY APPLE PULP<br>
+------------------------------------------------------------<br>
+1. Spread pulp thin on trays.
+2. Dry at 50–80 °C until brittle.
+3. Crumble into 2–10 mm flakes.
+4. Store dry.
+
+------------------------------------------------------------<br>
+STEP 2 — PREPARE DRY OATMEAL<br>
+------------------------------------------------------------<br>
+1. Use plain rolled oats.
+2. Dry at 50–80 °C until crisp.
+3. Break into 2–8 mm flakes.
+
+------------------------------------------------------------<br>
+STEP 3 — PREPARE SALT BLEND<br>
+------------------------------------------------------------<br>
+1. Mix NaCl, CaCl₂, NaHCO₃ in 2:1:1 ratio.
+2. Break lumps.
+3. Keep sealed (CaCl₂ absorbs moisture).
+
+------------------------------------------------------------<br>
+STEP 4 — DRY MIX (SAND + LIME + SALT BLEND)<br>
+------------------------------------------------------------<br>
+1. Add sand + lime to mixing tub.
+2. Dry-mix 2–3 minutes.
+3. Sprinkle salt blend evenly.
+4. Mix another 2–3 minutes.
+
+------------------------------------------------------------<br>
+STEP 5 — ADD BIO-FIBERS (APPLE + OATMEAL)<br>
+------------------------------------------------------------<br>
+1. Add 0.5 parts dried apple pulp.
+2. Add 0.5 parts dried oatmeal.
+3. Fold until fibers are fully coated.
+
+------------------------------------------------------------<br>
+STEP 6 — HYDRATION<br>
+------------------------------------------------------------<br>
+1. Start with 1.7 parts water.
+2. Add in small increments.
+3. Mix 1–2 minutes between additions.
+4. Desired consistency:
+   - Stiff, cohesive
+   - Slight sheen
+   - No free water pooling
+
+If too dry:
+  Add 0.1–0.2 parts water.
+
+If too wet:
+  Add sand + lime (maintain ratio).
+
+------------------------------------------------------------<br>
+STEP 7 — CASTING<br>
+------------------------------------------------------------<br>
+1. Prepare molds (clean, lightly oiled).
+2. Fill in 2–3 lifts.
+3. Lightly tamp each lift.
+4. Avoid heavy vibration.
+5. Strike off top flush.
+
+------------------------------------------------------------<br>
+STEP 8 — CURING (MOLD-RESISTANT)<br>
+------------------------------------------------------------<br>
+PHASE 1 — 0–24 HOURS
+  - Shade, ventilated.
+  - Loose cover.
+
+PHASE 2 — DAY 1–7
+  - Demold after 24–48 hours.
+  - Airflow, moderate humidity.
+
+PHASE 3 — DAY 7–28
+  - Dry, ventilated.
+  - Lime carbonates with CO₂.
+
+OPTIONAL — POST-28-DAY SEALER
+  - Apply breathable silicate sealer.
+
+------------------------------------------------------------<br>
+STEP 9 — STRENGTH TARGETING (~4.5–5.2 MPa)<br>
+------------------------------------------------------------<br>
+If strength <4 MPa:
+  - Increase sand to 4.2 parts.
+  - Increase lime to 2.9 parts.
+  - Reduce oatmeal to 0.4 parts.
+
+If brittle:
+  - Increase apple pulp to 0.6 parts.
+
+If efflorescence:
+  - Reduce salt blend to 0.15 parts.
+
+------------------------------------------------------------<br>
+SAFETY<br>
+------------------------------------------------------------<br>
+- Wear gloves, mask, eye protection.
+- Wet lime is highly alkaline.
+- Not for structural load-bearing without testing.
+
