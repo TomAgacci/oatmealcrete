@@ -223,11 +223,18 @@ If strength <4 MPa:
   - Increase lime to 2.9 parts.
   - Reduce oatmeal to 0.4 parts.
 
-If brittle:
-  - Increase apple pulp to 0.6 parts.
+  If mix is too brittle:
+    - Increase oatmeal:
+      Oatmeal: 0.9 parts
+      Sand: 3.8 parts
 
-If efflorescence:
-  - Reduce salt blend to 0.15 parts.
+  If salt efflorescence occurs:
+    - Reduce salt blend to 0.15 parts.
+
+SAFETY:
+  - Wear gloves, mask, eye protection.
+  - Wet lime is highly alkaline.
+  - Do not use for structural load-bearing without engineering validation.
 
 ------------------------------------------------------------
 SAFETY
