@@ -130,6 +130,112 @@ ADJUSTMENT RULES:
       Sand: 3.8 parts
 
   If salt efflorescence occurs:
+
+
+  ------------------------------------------------------------
+STEP 1 — PREPARE DRY APPLE PULP
+------------------------------------------------------------
+1. Spread pulp thin on trays.
+2. Dry at 50–80 °C until brittle.
+3. Crumble into 2–10 mm flakes.
+4. Store dry.
+
+------------------------------------------------------------
+STEP 2 — PREPARE DRY OATMEAL
+------------------------------------------------------------
+1. Use plain rolled oats.
+2. Dry at 50–80 °C until crisp.
+3. Break into 2–8 mm flakes.
+
+------------------------------------------------------------
+STEP 3 — PREPARE SALT BLEND
+------------------------------------------------------------
+1. Mix NaCl, CaCl₂, NaHCO₃ in 2:1:1 ratio.
+2. Break lumps.
+3. Keep sealed (CaCl₂ absorbs moisture).
+
+------------------------------------------------------------
+STEP 4 — DRY MIX (SAND + LIME + SALT BLEND)
+------------------------------------------------------------
+1. Add sand + lime to mixing tub.
+2. Dry-mix 2–3 minutes.
+3. Sprinkle salt blend evenly.
+4. Mix another 2–3 minutes.
+
+------------------------------------------------------------
+STEP 5 — ADD BIO-FIBERS (APPLE + OATMEAL)
+------------------------------------------------------------
+1. Add 0.5 parts dried apple pulp.
+2. Add 0.5 parts dried oatmeal.
+3. Fold until fibers are fully coated.
+
+------------------------------------------------------------
+STEP 6 — HYDRATION
+------------------------------------------------------------
+1. Start with 1.7 parts water.
+2. Add in small increments.
+3. Mix 1–2 minutes between additions.
+4. Desired consistency:
+   - Stiff, cohesive
+   - Slight sheen
+   - No free water pooling
+
+If too dry:
+  Add 0.1–0.2 parts water.
+
+If too wet:
+  Add sand + lime (maintain ratio).
+
+------------------------------------------------------------
+STEP 7 — CASTING
+------------------------------------------------------------
+1. Prepare molds (clean, lightly oiled).
+2. Fill in 2–3 lifts.
+3. Lightly tamp each lift.
+4. Avoid heavy vibration.
+5. Strike off top flush.
+
+------------------------------------------------------------
+STEP 8 — CURING (MOLD-RESISTANT)
+------------------------------------------------------------
+PHASE 1 — 0–24 HOURS
+  - Shade, ventilated.
+  - Loose cover.
+
+PHASE 2 — DAY 1–7
+  - Demold after 24–48 hours.
+  - Airflow, moderate humidity.
+
+PHASE 3 — DAY 7–28
+  - Dry, ventilated.
+  - Lime carbonates with CO₂.
+
+OPTIONAL — POST-28-DAY SEALER
+  - Apply breathable silicate sealer.
+
+Combined Apple Oatmeal
+
+------------------------------------------------------------
+STEP 9 — STRENGTH TARGETING (~4.5–5.2 MPa)
+------------------------------------------------------------
+If strength <4 MPa:
+  - Increase sand to 4.2 parts.
+  - Increase lime to 2.9 parts.
+  - Reduce oatmeal to 0.4 parts.
+
+If brittle:
+  - Increase apple pulp to 0.6 parts.
+
+If efflorescence:
+  - Reduce salt blend to 0.15 parts.
+
+------------------------------------------------------------
+SAFETY
+------------------------------------------------------------
+- Wear gloves, mask, eye protection.
+- Wet lime is highly alkaline.
+- Not for structural load-bearing without testing.
+
     - Reduce salt blend to 0.15 parts.
 
 SAFETY:
